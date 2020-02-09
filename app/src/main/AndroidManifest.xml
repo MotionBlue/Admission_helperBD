@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admissionhelper">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/addmissionlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/addmissionlogo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".East"></activity>
+        <activity android:name=".Uiu" />
+        <activity android:name=".Bru" />
+        <activity android:name=".Sust" />
+        <activity android:name=".Kuet" />
+        <activity android:name=".Cuet" />
+        <activity android:name=".Ku" />
+        <activity android:name=".Cu" />
+        <activity android:name=".ruet" />
+        <activity android:name=".buet" />
+        <activity android:name=".jahangirnagorUv" />
+        <activity android:name=".jagonnathUv" />
+        <activity android:name=".Brac" />
+        <activity android:name=".Aust" />
+        <activity android:name=".Nsu" />
+        <activity android:name=".Aiub" />
+        <activity android:name=".Diu" />
+        <activity android:name=".imagesActivity" />
+        <activity android:name=".ShowQuestionActivity" />
+        <activity android:name=".QuestionSetSelectActivity" />
+        <activity android:name=".RajshahiUv" />
+        <activity android:name=".DhakaUv" />
+        <activity android:name=".PrivateUniversityList" />
+        <activity android:name=".PublicUniversityList" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".VerifyPhoneActivity" />
+        <activity android:name=".PhoneActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

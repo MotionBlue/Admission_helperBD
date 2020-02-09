@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">AdmissionHelper</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="university_info">
+        The University of Dhaka (Bengali: ঢাকা বিশ্ববিদ্যালয়, also known as Dhaka University or simply DU) is the oldest university in Bangladesh.
+        Established in 1921 during the British Raj, it has made significant contributions to the modern history of Bangladesh.
+         After the Partition of India, it became the focal point of progressive and democratic movements in Pakistan.
+        Its students and teachers played a central role in the rise of Bengali nationalism and the independence of Bangladesh.
+        It also enjoyed associations with Satyendra Nath Bose, Vijayaraghavan and Kazi Nazrul Islam.
+        Today, it is the largest public research university in Bangladesh
+        with a student body of 37,018 and a faculty of 1,992.
+        It was identified by AsiaWeek as one of the top 100 universities in Asia. However, since the 1990s,
+        the university has suffered from intensely politicized, partisan and violent campus politics promoted by Bangladesh\'s political parties.
+    </string>
+    <string name="university_info2">
+        Motto :     শিক্ষাই আলো\n\n
+        Motto in English\n\n
+        Education is light\n\n
+        Type:	Public university\n\n
+        Established:	1921\n\n
+        Chancellor:	Abdul Hamid\n\n
+        Vice-Chancellor:	Md. Akhtaruzzaman\n\n
+        Academic staff:  2,156\n\n
+        Administrative staff:   3,887\n\n
+        Students:	30,015\n\n
+        Undergraduates:	23,620\n\n
+        Postgraduates:	5,362\n\n
+        Doctoral students:  764\n\n
+        Other students:  269\n\n
+        Location:	Dhaka, Bangladesh\n\n
+        Campus:	Urban, 240 hectares (600 acres) (without the Institute of leather engineering and tech).
+    </string>
+    <string name="university_info3">
+ This year, a total of 7,128 seats are available:\n\n
+      1,750 under ‘Ka’ (Science) unit\n\n
+      2,378 under ‘Kha’ (Arts) unit\n\n
+      1,250 under ‘Ga’ (Business) unit\n\n
+      1,615 under ‘Gha’ (combined) unit\n\n
+  135 under the Fine Arts faculty.
+
+    </string>
+    <string name="rajUv1">The University of Rajshahi,
+        also known as Rajshahi University or RU (Bengali: রাজশাহী বিশ্ববিদ্যালয়) is a public university
+        which is the second largest university in Bangladesh, in Rajshahi, a city in northwestern Bangladesh.
+        It was established in 1953, the second university to be established in what was then East Pakistan.
+        The university is ranked third on the Bangladesh University Ranking 2017.
+        The university\'s 59 departments are organised into ten faculties.
+        Rajshahi University is in a 753 acres (3 km2) campus in Motihar,
+        3 kilometres (2 mi) from the Rajshahi city centre. With 25,000 students and close to 1000 academic staff,
+        it is one of the largest universities in Bangladesh.</string>
+    <string name="rajUv2">
+        Type:	Public\n\n
+Established:	July 6, 1953\n\n
+Affiliation:	University Grants Commission of Bangladesh\n\n
+Chancellor:	President of Bangladesh\n\n
+Vice-Chancellor:	M. Abdus Sobhan\n\n
+Provost:	17 provosts\n\n
+Pro Vice-Chancellor:	Professor Dr. Ananda Kumar Saha\n\n
+Academic staff:   1,778 (December 2015)\n\n
+Administrative staff: 2,258 (December 2015)\n\n
+Students:	38,495 (December 2015)\n\n
+Undergraduates:	15,258 (December 2015)\n\n
+Postgraduates:	9,125 (December 2015)\n\n
+Doctoral students: 2,112 (December 2015)\n\n
+Location:	Rajshahi, Bangladesh\n\n
+Campus:	Urban, 753 acres (3 km2)
+    </string>
+    <string name="rajUv3">www.ru.ac.bd</string>
+    <string name="diu">Daffodil International University is a private university located in Dhanmondi, Dhaka, Bangladesh.
+        It was established on 24 January 2002 under the The Private University Act of 1992. According to QS University Rankings: Asia 2019,
+        DIU is a top-ranked private university among all the universities in Bangladesh.
+        DIU is the first university in Bangladesh to have signed the UN\'s Commitment to Sustainable Practices of Higher Education Institutions.</string>
+    <string name="diu1">
+        Motto:	A Landmark to create the Future\n\n
+Type:	Private\n\n
+Established:	2002\n\n
+Chairman:	Md. Sabur Khan\n\n
+Chancellor:	Abdul Hamid, President of Bangladesh\n\n
+Vice-Chancellor:	Prof. Dr. Yousuf Mahbubul Islam\n\n
+Academic: staff719\n\n
+Administrative: staff620\n\n
+Students:	35,790\n\n
+Undergraduates:	35,790\n\n
+Postgraduates:	1,284\n\n
+Location:	Dhaka, Bangladesh\n\n
+Campus:	Urban 150 Acres\n\n
+Affiliations:	UGC\n\n
+    </string>
+    <string name="diu2">www.daffodilvarsity.edu.bd
+    </string>
+    <string name="aiub1">
+        American International University-Bangladesh, commonly known as AIUB is an accredited and renowned private university located at Kuratoli Road, Kuril in Dhaka, Bangladesh.
+        The university is an independent organization with own Board of Trustees.
+        It offers several degree programs at graduate and undergraduate level from four faculties, particularly in the field of engineering and business studies.
+    </string>
+    <string name="aiub2">
+
+Established:	1994\n\n
+Founder:	Dr. Anwarul Abedin\n\n
+Chairman:	Ms. Nadia Anwar\n\n
+Chancellor:	President of Bangladesh\n\n
+Vice-Chancellor:	Dr. Carmen Z. Lamagna\n\n
+Academic staff:  308 (full-time) as of Summer 2015-2016\n\n
+Students:	100,00(approx) as of Spring 2016-2017\n\n
+Location:	Dhaka, Bangladesh
+    </string>
+    <string name="aiub3">http://www.aiub.edu/</string>
+    <string name="nsu1">
+        North South University, also known as NSU is the first privately funded university in Bangladesh.
+        Its business school is also the first in Bangladesh to receive American accreditation from the ACBSP in 2015.
+
+The government of Bangladesh approved the establishment of North South University in 1992 under the Private University Act (PUA) 1992 (now replaced by PUA 2010).
+        The university was formally inaugurated on 10 February 1993.
+
+The North South University ranked 301-500 in the "Graduate Employability Ranking 2020" published by the higher education information service provider Quacquarelli Symonds (QS).
+        The ranking indicates how well students from a university can gain a foothold on the global job market. This year (2019), NSU is among the top 2 in Bangladesh, and one of the top 500 universities on an international scale.
+        The university ranked 301-350 in the "Asian University Rankings" published by QS World University Rankings.
+        It is also ranked 1st among the private universities and 4th among all the universities in research output on the Bangladesh University Ranking 2019.
+
+    </string>
+    <string name="nsu2">
+
+        Motto:	Center of Excellence in Higher Education\n\n
+Type:	Private, research university\n\n
+Established:	1992\n\n
+Affiliation:	UGC\n\n
+Chancellor:	 President of Bangladesh Abdul Hamid\n\n
+Vice-Chancellor: 	Atique Islam\n\n
+Academic staff: 907 (including 449 impermanent/adjunct faculty) (2015)\n\n
+Administrative staff: 223 (2015)\n\n
+Students:	13,990 (2015)\n\n
+Undergraduates:	12,068 (2015)\n\n
+Postgraduates:	1,922 (2015)\n\n
+Location:	Dhaka, Bangladesh
+    </string>
+    <string name="nsu3">http://www.northsouth.edu/</string>
+    <string name="aust1">
+        Ahsanullah University of Science and Technology or commonly known as AUST first non-government engineering university to be established in Bangladesh.
+        The University is considered as one of the finest engineering universities, the leading non-government engineering university in Bangladesh, which was founded by the Dhaka Ahsania Mission in 1995.
+        Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh.
+        The Mission was established in 1958 by Khan Bahadur Ahsanullah.
+
+    </string>
+    <string name="aust2">
+        Type:	Private Engineering University\n\n
+Established:	1995\n\n
+Chancellor:	 President Abdul Hamid\n\n
+Academic staff:  350 (Year: 2014)\n\n
+Administrative staff: 134 (Year: 2014)\n\n
+Students:	6,843 (Year: 2014)\n\n
+Undergraduates:	6,248 (Year: 2014)\n\n
+Postgraduates:	575 (Year: 2014)\n\n
+Location:	Dhaka, Bangladesh
+    </string>
+    <string name="aust3">http://www.aust.edu/</string>
+    <string name="brac1">BRAC University (BRACU) is a private University in Bangladesh.
+        It was founded as a branch of the BRAC organization by Sir Fazle Hasan Abed in 2001 under the Private University Act</string>
+    <string name="brac2">
+        Other name: BRACU\n\n
+Motto:	Inspiring Excellences\n\n
+Type:	Private\n\n
+Established: 	2001\n\n
+Chancellor:	 President Abdul Hamid\n\n
+Vice-Chancellor:	Vincent Chang\n\n
+Academic staff: 593 (2019)\n\n
+Students:	9839 (2019)\n\n
+Undergraduates:	8764 (2019)\n\n
+Postgraduates:	1075 (2019)\n\n
+Location:	Mohakhali, Dhaka, Bangladesh
+    </string>
+    <string name="brac3">https://www.bracu.ac.bd/</string>
+    <string name="ju1">
+        Jagannath University is a government-financed public university in Sadarghat, Dhaka, the capital of Bangladesh.
+        Jagannath University is in the southern part of Dhaka city near the River Buriganga.
+        In 1884, it was raised to a second grade college. Law was one of the first courses introduced.
+        A common management committee administered the school and college until 1887, when the school section was separated to form the independent Kishore Jubilee School, now known as K. L. Jubilee School.
+        The administration of the college was transferred to a board of trustees in 1907. In the following year, it became a first grade college.
+    </string>
+    <string name="ju2">
+        Motto:	শিক্ষা, ঈমান, শৃঙ্খলা\n\n
+Type:	Public\n\n
+Established: 	20 October,2005\n\n
+Chancellor: 	Abdul Hamid\n\n
+Vice-Chancellor:	Mijanur Rahman\n\n
+Academic staff:  960\n\n
+Administrative staff:  850\n\n
+Students:	17,134\n\n
+Location:	Dhaka, Bangladesh
+    </string>
+    <string name="ju3">https://www.jnu.ac.bd/</string>
+    <string name="jnu1">
+        Jahangirnagar University is a public university in Bangladesh, based in Savar Upazila, Dhaka.
+        It is one of the top and only fully residential[3] universities in Bangladesh.
+        The university was established in 1970 by the Jahangirnagar Muslim University Ordinance of the government of Pakistan.
+        Its first vice-chancellor, Mafizuddin Ahmed (PhD in chemistry, Penn State) took up office on 24 September 1970.
+        The first group of students, a total of 150, were enrolled in four departments: Economics, Geography, Mathematics, and Statistics.
+        Its formal inauguration was delayed until 12 January 1971, when the university was launched by Rear Admiral S. M. Ahsan, the chancellor.
+    </string>
+    <string name="jnu2">
+        Type:	Public\n\n
+Established:	1970\n\n
+Chancellor: 	Abdul Hamid\n\n
+Vice-Chancellor: 	Farzana Islam\n\n
+Pro-Vice-Chancellor:	Md. Abul Hossain\n\n
+Academic staff: 755 (2014)\n\n
+Administrative staff: 1,700 (2014)\n\n
+Students:	16,781(2014)\n\n
+Undergraduates:	14,560(2014)\n\n
+Postgraduates:	3,501 (2014)\n\n
+Doctoral students: 2,274 (2014)
+    </string>
+    <string name="jnu3">http://www.juniv.edu/</string>
+</resources>

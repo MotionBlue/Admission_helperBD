@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#277C72"
+    android:orientation="vertical"
+    tools:context=".QuestionSetSelectActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Question Set 1"
+        android:textAllCaps="false"
+        android:background="@drawable/roundbtn"
+        android:textColor="#FFF"
+        android:id="@+id/questionSet1Btn"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Question Set 2"
+        android:textAllCaps="false"
+        android:background="@drawable/roundbtn"
+        android:textColor="#FFF"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Question Set 3"
+        android:textAllCaps="false"
+        android:background="@drawable/roundbtn"
+        android:textColor="#FFF"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Question Set 4"
+        android:textAllCaps="false"
+        android:background="@drawable/roundbtn"
+        android:textColor="#FFF"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Question Set 5"
+        android:textAllCaps="false"
+        android:background="@drawable/roundbtn"
+        android:textColor="#FFF"
+        ></Button>
+
+</LinearLayout>

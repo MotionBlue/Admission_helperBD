@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_margin="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="15dp"
+                android:text="Admission: https://admission.eis.du.ac.bd/"
+                android:autoLink="web"
+                android:id="@+id/addmissioninfoTv"
+                ></TextView>
+            <TextView
+                android:layout_margin="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="15dp"
+                android:text="Exam System: http://studybarta.com/dhaka-university-admission-test-notice/"
+                android:autoLink="web"
+                android:id="@+id/examSystemTv"
+                ></TextView>
+            <TextView
+                android:layout_margin="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="15dp"
+                android:text="For Result: https://admission.eis.du.ac.bd/index.php?act=login/index"
+                android:autoLink="web"
+                android:id="@+id/resultTv"
+                ></TextView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
